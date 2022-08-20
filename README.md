@@ -1,6 +1,6 @@
-## Olá! Eu sou a Lílyan Guedes ❤️
+## Hello! I'm Lílyan Guedes ❤️
 
-- Estudante de Ciência da Computação
-- Contate-me no email: lilyanggs10@gmail.com
-- Pronouns: Ela/dela
+- Computer science student
+- Contact me by email: lilyanggs10@gmail.com
+- Pronouns: She/her
 
