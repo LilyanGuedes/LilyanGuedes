@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Lílyan Guedes, sou estudante de Ciência da computação. Tenho foco nas tecnologias de <strong>desenvolvimento web</strong>.<br>
-  Atualmente estou no 4°período da faculdade.
+  Olá, meu nome é Lílyan Guedes, sou estudante de Ciência da computação, atualmente estou no 4°período da faculdade.. Tenho foco nas tecnologias de <strong>desenvolvimento web</strong>.<br>
 </p>
 
 <p align="left">
