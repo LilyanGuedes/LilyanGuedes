@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail">
+  <a href="" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/lilyan-guedes/" alt="Linkedin">
@@ -24,10 +24,10 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github.com/LilyanGuedes" />
+<a href="https://github.com/LilyanGuedes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github.com/LilyanGuedes" alt="**Lílyan** github stats"/>
+<a href="https://github.com/LilyanGuedes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
