@@ -6,7 +6,8 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias em estudo: <strong>HTML, CSS, JAVASCRIPT, REACT.JS, NEXT, REACT NATIVE, TYPESCRIPT, NODE.JS.</strong>
+  🦄 Tecnologias em estudo: <strong>HTML, CSS, JAVASCRIPT, REACT.JS, NEXT,
+    REACT NATIVE, TYPESCRIPT, NODE.JS.</strong>
 </p>
 
 <p align="left">
