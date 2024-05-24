@@ -1,10 +1,10 @@
 # Hello, I'm Lilyan 👋
 
-![GitHub followers](https://img.shields.io/github/followers/LilyanGuedes?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/LilyanGuedes?style=social)
-
 ## About Me
 
 ⚡Software Development Engineer in Test (SDET), with a focus on automation.
+<br/>
+🎓 I'm in the 5th semester of Computer Science.
 
 ## 🦄 My Skills
 
