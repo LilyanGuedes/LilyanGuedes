@@ -1,17 +1,29 @@
+# Hello, I'm Lilyan 👋
+
+![GitHub followers](https://img.shields.io/github/followers/LilyanGuedes?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/LilyanGuedes?style=social)
+
+## About Me
+
+⚡Software Development Engineer in Test (SDET), with a focus on automation.
+
+## 🦄 My Skills
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá, meu nome é Lílyan Guedes, sou estudante de Ciência da computação, atualmente estou no 4°período. O meu foco está nas tecnologias de <strong>desenvolvimento web</strong>.<br>
-</p>
+  - [ ] JavaScript
+  - [ ] Angular
+  - [ ] Nest
+  - [ ] MySql
+  - [ ] Jest
+  - [ ] Cypress
+  - [ ] Playwright
+  - [ ] K6
+  - [ ] Appium
+  - [ ] GitHub actions
+  - [ ] Power Bi
 
-<p align="left">
-  🦄 Tecnologias em estudo: <strong>HTML, CSS, JAVASCRIPT, REACT.JS, NEXT,
-    REACT NATIVE, TYPESCRIPT, NODE.JS, JAVA, SPRING BOOT.</strong>
-</p>
 
-<p align="left">
-  💌 Entre em contato: ⤵️
-</p>
+## 📫 Connect with Me
 
 <p align="left">
   <a href="" alt="Gmail">
