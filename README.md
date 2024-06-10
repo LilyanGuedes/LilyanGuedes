@@ -2,6 +2,7 @@
 
 ## About Me
 
+⚡web developer
 ⚡Software Development Engineer in Test (SDET), with a focus on automation.
 <br/>
 🎓 I'm in the 5th semester of Computer Science.
