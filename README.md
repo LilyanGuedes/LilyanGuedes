@@ -13,6 +13,7 @@
 
   - [ ] JavaScript
   - [ ] Nest
+  - [ ] Angular
   - [ ] MySql
   - [ ] Jest
   - [ ] Cypress
